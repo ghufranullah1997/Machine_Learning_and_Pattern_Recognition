@@ -24,7 +24,7 @@ Each pixel value ranges from 0 to 255. The dataset includes multiple samples per
 
 ---
 
-## 🔧 What I Did
+## 🔧 Project Description
 
 ### 1. **Preprocessing & Setup**
 - Loaded and parsed raw pixel data from text files
