@@ -1,6 +1,6 @@
 # 📘 Machine Learning and Pattern Recognition
 
-This repository documents my coursework and practical projects from the advanced-level course **"Machine Learning and Pattern Recognition"** under the Computer Science department.
+This repository documents my coursework and practical projects from the course **"Machine Learning and Pattern Recognition"**.
 
 ---
 
